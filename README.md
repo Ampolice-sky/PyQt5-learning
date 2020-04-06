@@ -34,7 +34,6 @@ git clone https://github.com/Ampolice-sky/PyQt5-learning
     ```
     pip install PyQt5
     ```
-
 或者：
     ```
     easy_install PyQt5
