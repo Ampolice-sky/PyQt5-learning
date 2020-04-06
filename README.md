@@ -18,16 +18,18 @@ PyQt5的性能比自带的thinker更好，适合中等水平的Python程序员�
 Python3.5.0及以上；
 克隆代码如下：
 `#在桌面新建文件夹，例如alpha：
-cd /c/Users/Administrator/Desktop/alpha
-git init
-git clone https://github.com/Ampolice-sky/PyQt5-learning
+ cd /c/Users/Administrator/Desktop/alpha
+ git init
+ git clone https://github.com/Ampolice-sky/PyQt5-learning
 `
 ##下载PyQt5:
 ① 执行命令
-    `pip install PyQt5
+    `
+    pip install PyQt5
     `
 或者：
-    `easy_install PyQt5
+    `
+    easy_install PyQt5
     `
 ② 使用Pycharm，然后（这里以Scrapy举例）：
 ![Markdown](https://jingyan.baidu.com/album/37bce2beddaa115002f3a284.html?picindex=2)
