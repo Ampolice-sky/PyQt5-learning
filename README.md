@@ -28,17 +28,25 @@ git clone https://github.com/Ampolice-sky/PyQt5-learning
     ```
     pip install PyQt5
     ```
-\n或者：
+
+或者：
     ```
     easy_install PyQt5
     ```
-\n② 使用Pycharm，然后（这里以Scrapy举例）：
+
+② 使用Pycharm，然后（这里以Scrapy举例）：
 ![Markdown](https://jingyan.baidu.com/album/37bce2beddaa115002f3a284.html?picindex=2)
+
 ![Markdown](https://jingyan.baidu.com/album/37bce2beddaa115002f3a284.html?picindex=3)
+
 ![Markdown](https://jingyan.baidu.com/album/37bce2beddaa115002f3a284.html?picindex=4)
+
 ![Markdown](https://jingyan.baidu.com/album/37bce2beddaa115002f3a284.html?picindex=5)
+
 ![Markdown](https://jingyan.baidu.com/album/37bce2beddaa115002f3a284.html?picindex=6)
+
 ![Markdown](https://jingyan.baidu.com/album/37bce2beddaa115002f3a284.html?picindex=7)
+
 ![Markdown](https://jingyan.baidu.com/album/37bce2beddaa115002f3a284.html?picindex=8)
 
 ③ 若是实在装不起库，也没关系，我已经准备好了PyQt5的库，已经发了上来（但仅限于Python3.6）
