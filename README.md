@@ -28,11 +28,11 @@ git clone https://github.com/Ampolice-sky/PyQt5-learning
     ```
     pip install PyQt5
     ```
-或者：
+\n或者：
     ```
     easy_install PyQt5
     ```
-② 使用Pycharm，然后（这里以Scrapy举例）：
+\n② 使用Pycharm，然后（这里以Scrapy举例）：
 ![Markdown](https://jingyan.baidu.com/album/37bce2beddaa115002f3a284.html?picindex=2)
 ![Markdown](https://jingyan.baidu.com/album/37bce2beddaa115002f3a284.html?picindex=3)
 ![Markdown](https://jingyan.baidu.com/album/37bce2beddaa115002f3a284.html?picindex=4)
