@@ -23,7 +23,7 @@ cd /c/Users/Administrator/Desktop/alpha
 git init
 git clone https://github.com/Ampolice-sky/PyQt5-learning
 ```
-##下载PyQt5:
+## 下载PyQt5:
 ① 执行命令
     ```
     pip install PyQt5
@@ -52,6 +52,6 @@ git clone https://github.com/Ampolice-sky/PyQt5-learning
 
 ③ 若是实在装不起库，也没关系，我已经准备好了PyQt5的库，已经发了上来（但仅限于Python3.6）
 
-##最后：
+## 最后：
 GUIPython首选永远是PyQt5;
 人生苦短，我用Python！
