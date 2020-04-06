@@ -20,8 +20,11 @@ PyQt5的性能比自带的thinker更好，适合中等水平的Python程序员�
 
 ## 要求：
 拥有一个可以运行代码的编辑器，推荐使用Pycharm；
+
 Python3.5.0及以上；
+
 克隆代码如下：
+
 ```
 #在桌面新建文件夹，例如alpha：
 cd /c/Users/Administrator/Desktop/alpha
